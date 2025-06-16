@@ -1,0 +1,703 @@
+<svg width="8.26772in" height="11.6929in" viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st29" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+	
+
+	<style type="text/css">
+	
+		.st1 {fill:url(#grad0-5);stroke:#3c3c3c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75;visibility:hidden}
+		.st5 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:url(#grad3-23);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.3}
+		.st8 {fill:#000000;font-family:Calibri;font-size:0.797241em;font-weight:bold}
+		.st9 {fill:#dbeef3;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {fill:#000000;font-family:Calibri;font-size:0.0833359em;font-weight:bold;opacity:0}
+		.st11 {fill:#262626;font-family:Calibri;font-size:0.0833359em;font-weight:bold;opacity:0}
+		.st12 {marker-end:url(#mrkr5-45);stroke:#3c3c3c;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st13 {fill:#3c3c3c;fill-opacity:1;stroke:#3c3c3c;stroke-opacity:1;stroke-width:0.33557046979866}
+		.st14 {stroke:#3c3c3c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st15 {fill:#ffffff;stroke:#3c3c3c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {fill:#000000;font-family:Calibri;font-size:0.75em}
+		.st17 {fill:url(#grad0-57);stroke:#3c3c3c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st18 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st19 {fill:#000000;font-family:Calibri;font-size:0.674652em;font-weight:bold}
+		.st20 {fill:#ff6666;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st21 {marker-end:url(#mrkr5-91);stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st22 {fill:#282828;fill-opacity:1;stroke:#282828;stroke-opacity:1;stroke-width:0.33557046979866}
+		.st23 {stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st24 {fill:#ffffff;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st25 {fill:url(#grad0-109);stroke:#3c3c3c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st26 {fill:#000000;font-family:Calibri;font-size:0.831367em;font-weight:bold}
+		.st27 {fill:#c4d6a0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st28 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st29 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffff64" stop-opacity="1"></stop>
+			<stop offset="1" stop-color="#ffff64" stop-opacity="1"></stop>
+		</linearGradient>
+		<radialGradient id="grad3-23" cx="0.5" cy="0.5" r="0.73">
+			<stop offset="0" stop-color="#fbf6f5" stop-opacity="1"></stop>
+			<stop offset="1" stop-color="#ffff00" stop-opacity="1"></stop>
+		</radialGradient>
+		<linearGradient id="grad0-57" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#c3d7a0" stop-opacity="1"></stop>
+			<stop offset="1" stop-color="#d7ebb4" stop-opacity="1"></stop>
+		</linearGradient>
+		<linearGradient id="grad0-109" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#d99690" stop-opacity="1"></stop>
+			<stop offset="1" stop-color="#e3b3ae" stop-opacity="1"></stop>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"></path>
+		</g>
+		<marker id="mrkr5-45" class="st13" v:arrowType="5" v:arrowSize="4" v:setback="5.215" refX="-5.215" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.98,-2.98) "></use>
+		</marker>
+		<marker id="mrkr5-91" class="st22" v:arrowType="5" v:arrowSize="4" v:setback="5.215" refX="-5.215" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.98,-2.98) "></use>
+		</marker>
+	</defs>
+	<g v:mID="4" v:index="2" v:groupContext="foregroundPage">
+		
+		<title>SBD: Mitarbeiter </title>
+		
+		
+		
+		
+		
+		
+		
+		<g id="group2-1" transform="translate(256.535,-680.315)" v:mID="2" v:groupContext="group" v:layerMember="0">
+			
+			
+			<title>Do</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,2,2,2)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="49.6063" cy="827.508" width="99.22" height="28.7638"></v:textRect>
+				<path d="M96.94 841.89 A2.26773 2.26773 -180 0 0 99.21 839.62 L99.21 801.64 A2.26773 2.26773 -180 0 0 96.94 799.37&#xA;        L2.27 799.37 A2.26773 2.26773 -180 0 0 -0 801.64 L0 839.62 A2.26773 2.26773 -180 0 0 2.27 841.89 L96.94&#xA;        841.89 Z" class="st1"></path>
+				<text x="20.71" y="818.01" class="st2" v:langID="1031">Urlaubsantrag <tspan x="13.4" dy="1.2em" class="st3">ausfüllen (Datum, </tspan>
+<tspan x="20.6" dy="1.2em" class="st3">Dauer, Grund)</tspan>
+</text>			</g>
+			<g id="group3-9" transform="translate(85.6234,-28.9304)" v:mID="3" v:groupContext="group" v:layerMember="0">
+				<title>EndSymbol</title>
+				<g id="shape4-10" v:mID="4" v:groupContext="shape" v:layerMember="0">
+					<title>Kreis.54</title>
+					
+				</g>
+				<g id="shape5-12" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(3.44409,-3.44409)">
+					<title>Quadrat.62</title>
+					
+					<rect x="0" y="836.022" width="5.86772" height="5.86772" class="st4"></rect>
+				</g>
+				<g id="shape3-14" v:mID="3" v:groupContext="groupContent" v:layerMember="0"></g>
+			</g>
+			<g id="group6-15" transform="translate(72.0341,-28.9304)" v:mID="6" v:groupContext="group" v:layerMember="0">
+				
+				<title>StartSymbol</title>
+				<g id="shape6-16" v:mID="6" v:groupContext="groupContent" v:layerMember="0">
+					<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st5"></path>
+				</g>
+				<g id="shape7-18" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(4.84724,-2.65619)">
+					<title>Sheet.7</title>
+					<path d="M0 841.8 L0.12 841.89 L5.1 838.06 L0.12 834.24 L0 834.32 L0 841.8 Z" class="st6"></path>
+				</g>
+			</g>
+			<g id="shape8-20" v:mID="8" v:groupContext="shape" transform="translate(11.3386,-28.7638)">
+				<title>TypeSymbolD</title>
+				<desc>D</desc>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="6.56929" cy="835.639" width="12.29" height="10.118"></v:textRect>
+				<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st7"></path>
+				<text x="3.55" y="838.51" class="st8" v:langID="1031">D</text>			</g>
+			<g id="shape9-25" v:mID="9" v:groupContext="shape" transform="translate(71.7008,-42.5197)">
+				<title>MakroSymbol</title>
+				<desc>M</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+				<ellipse cx="0" cy="841.89" rx="0" ry="0" class="st9"></ellipse>
+				<text x="0" y="842.19" class="st10" v:langID="1031">M</text>			</g>
+			<g id="shape10-28" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(4.22871,-24.8031)">
+				<title>LoopBox</title>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="15.9565" cy="834.803" width="31.92" height="14.1732"></v:textRect>
+			</g>
+			<g id="group11-30" transform="translate(72.7008,-42.5197)" v:mID="11" v:groupContext="group">
+				<title>FunctionCallCog</title>
+				<g id="shape12-31" v:mID="12" v:groupContext="shape">
+					<title>Sheet.12</title>
+				</g>
+				<g id="shape13-32" v:mID="13" v:groupContext="shape">
+					<title>Sheet.13</title>
+				</g>
+				<g id="shape14-33" v:mID="14" v:groupContext="shape">
+					<title>Sheet.14</title>
+				</g>
+			</g>
+			<g id="group15-34" transform="translate(69.7008,-42.5197)" v:mID="15" v:groupContext="group">
+				<title>DataAccess</title>
+				<desc>DA</desc>
+				<g id="shape16-35" v:mID="16" v:groupContext="shape">
+					<title>Sheet.16</title>
+				</g>
+				<g id="shape15-36" v:mID="15" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+					<text x="0" y="841.59" class="st11" v:langID="1031">D<tspan x="0" dy="1.2em" class="st3">A</tspan>
+</text>				</g>
+			</g>
+		</g>
+		<g id="group17-39" transform="translate(299.055,-680.315)" v:mID="17" v:groupContext="group" v:layerMember="1">
+			
+			
+			<title>Do Transition</title>
+			<g id="shape17-40" v:mID="17" v:groupContext="groupContent" v:layerMember="1">
+				<path d="M7.09 841.89 L7.09 883.9" class="st12"></path>
+			</g>
+			<g id="shape18-46" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(9.92126,1705.04) rotate(180)">
+				<title>Sheet.18</title>
+				<path d="M0 841.89 L2.83 841.89" class="st14"></path>
+			</g>
+			<g id="group19-49" transform="translate(-22.3803,26.6616)" v:mID="19" v:groupContext="group" v:layerMember="1">
+				<title>Sheet.19</title>
+				<g id="shape19-50" v:mID="19" v:groupContext="groupContent" v:layerMember="1">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"></v:textBlock>
+					<v:textRect cx="32.3016" cy="836.488" width="64.61" height="10.8036"></v:textRect>
+					<rect x="0" y="831.086" width="64.6032" height="10.8036" rx="0.283465" ry="0.283465" class="st15"></rect>
+					<text x="-0" y="839.19" class="st16" v:langID="1031">Antrag ausgefüllt</text>				</g>
+			</g>
+		</g>
+		<g id="group20-53" transform="translate(256.535,-585.354)" v:mID="20" v:groupContext="group" v:layerMember="2">
+			
+			
+			<title>Send</title>
+			<g id="shape20-54" v:mID="20" v:groupContext="groupContent" v:layerMember="2">
+				<v:textBlock v:margins="rect(1,2,2,2)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="49.6063" cy="828.008" width="99.22" height="27.7638"></v:textRect>
+				<path d="M96.94 841.89 A2.26773 2.26773 -180 0 0 99.21 839.62 L99.21 801.64 A2.26773 2.26773 -180 0 0 96.94 799.37&#xA;        L2.27 799.37 A2.26773 2.26773 -180 0 0 0 801.64 L0 839.62 A2.26773 2.26773 -180 0 0 2.27 841.89 L96.94&#xA;        841.89 Z" class="st17"></path>
+				<text x="14.96" y="830.51" class="st2" v:langID="1031">Antrag absenden</text>			</g>
+			<g id="group21-59" transform="translate(85.4731,-28.7802)" v:mID="21" v:groupContext="group" v:layerMember="2">
+				<title>EndSymbol</title>
+				<g id="shape22-60" v:mID="22" v:groupContext="shape" v:layerMember="2">
+					<title>Kreis.54</title>
+					
+				</g>
+				<g id="shape23-62" v:mID="23" v:groupContext="shape" v:layerMember="2" transform="translate(3.44409,-3.44409)">
+					<title>Quadrat.62</title>
+					
+					<rect x="0" y="836.022" width="5.86772" height="5.86772" class="st4"></rect>
+				</g>
+				<g id="shape21-64" v:mID="21" v:groupContext="groupContent" v:layerMember="2"></g>
+			</g>
+			<g id="group24-65" transform="translate(71.7336,-28.7802)" v:mID="24" v:groupContext="group" v:layerMember="2">
+				
+				<title>StartSymbol</title>
+				<g id="shape24-66" v:mID="24" v:groupContext="groupContent" v:layerMember="2"></g>
+				<g id="shape25-68" v:mID="25" v:groupContext="shape" v:layerMember="2" transform="translate(4.84724,-2.65619)">
+					<title>Sheet.25</title>
+				</g>
+			</g>
+			<g id="shape26-70" v:mID="26" v:groupContext="shape" v:layerMember="2" transform="translate(9.18934,-23.6889)">
+				<title>LoopBox</title>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="15.9565" cy="835.122" width="31.92" height="13.5365"></v:textRect>
+			</g>
+			<g id="shape27-72" v:mID="27" v:groupContext="shape" transform="translate(71.7008,-42.5197)">
+				<title>MakroSymbol</title>
+				<desc>M</desc>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+				<ellipse cx="0" cy="841.89" rx="0" ry="0" class="st9"></ellipse>
+				<text x="0" y="842.19" class="st10" v:langID="1031">M</text>			</g>
+			<g id="group28-75" transform="translate(72.7008,-42.5197)" v:mID="28" v:groupContext="group">
+				<title>FunctionCallCog</title>
+				<g id="shape29-76" v:mID="29" v:groupContext="shape">
+					<title>Sheet.29</title>
+				</g>
+				<g id="shape30-77" v:mID="30" v:groupContext="shape">
+					<title>Sheet.30</title>
+				</g>
+				<g id="shape31-78" v:mID="31" v:groupContext="shape">
+					<title>Sheet.31</title>
+				</g>
+			</g>
+			<g id="group32-79" transform="translate(11.3386,-28.6142)" v:mID="32" v:groupContext="group">
+				<title>StateSymbol.20</title>
+				<desc>S</desc>
+				<g id="shape32-80" v:mID="32" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(0,2,0,1)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect cx="7.44094" cy="833.76" width="14.89" height="9.22028"></v:textRect>
+					<rect x="0" y="829.984" width="14.8819" height="8.87316" class="st18"></rect>
+					<text x="9.06" y="836.19" class="st19" v:langID="1031">S</text>				</g>
+				<g id="shape33-83" v:mID="33" v:groupContext="shape" transform="translate(0.53785,0.904701)">
+					<title>Sheet.33</title>
+					<path d="M0 835.88 L6.76 841.89 L13.53 835.88 L0 835.88 L0 835.88 Z" class="st20"></path>
+				</g>
+			</g>
+		</g>
+		<a xlink:href="?&quot;zoom=100&quot;" v:shapeLink="Receive Transition">
+			<g id="group34-85" transform="translate(299.197,-585.354)" v:mID="34" v:groupContext="group" v:layerMember="3">
+				
+				
+				<title>Send Transition</title>
+				<g id="shape34-86" v:mID="34" v:groupContext="groupContent" v:layerMember="3">
+					<path d="M6.94 841.89 L6.94 871.51 a0.141732 0.141732 -180 0 0 0.141732 0.141732 L7.09 871.65 a0.141732 0.141732&#xA;         0 0 1 0.141732 0.141732 L7.23 883.9" class="st21"></path>
+				</g>
+				<g id="shape35-92" v:mID="35" v:groupContext="shape" v:layerMember="3" transform="translate(6.13036,26.2601)">
+					<title>Sheet.35</title>
+					<path d="M0 841.89 L0.81 841.89" class="st23"></path>
+				</g>
+				<a xlink:href="?&quot;zoom=100&quot;" v:shapeLink="Receive Transition">
+					<g id="group36-95" transform="translate(-30.8382,37.0619)" v:mID="36" v:groupContext="group" v:layerMember="3">
+						<title>Sheet.36</title>
+						<desc>To: Msg:</desc>
+						<g id="shape36-96" v:mID="36" v:groupContext="groupContent" v:layerMember="3">
+							<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"></v:textBlock>
+							<v:textRect cx="36.9686" cy="831.088" width="73.94" height="21.6036"></v:textRect>
+							<rect x="0" y="820.286" width="73.9372" height="21.6036" rx="0.283465" ry="0.283465" class="st24"></rect>
+							<text x="0" y="828.39" class="st16" v:langID="1031">To: Vorgesetzter<v:newlineChar></v:newlineChar>
+<tspan x="0" dy="1.2em" class="st3">Msg: </tspan>Urlaubsantrag</text>						</g>
+						<g id="group37-100" transform="translate(71.9401,-20.9369)" v:mID="37" v:groupContext="group">
+							<title>DataAccess</title>
+							<desc>DA</desc>
+							<g id="shape38-101" v:mID="38" v:groupContext="shape">
+								<title>Sheet.38</title>
+							</g>
+							<g id="shape37-102" v:mID="37" v:groupContext="groupContent">
+								<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+								<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+								<text x="-0" y="841.59" class="st11" v:langID="1031">D<tspan x="-0" dy="1.2em" class="st3">A</tspan>
+</text>							</g>
+						</g>
+					</g>
+				</a>
+			</g>
+		</a>
+		<g id="group39-105" transform="translate(256.535,-490.394)" v:mID="39" v:groupContext="group" v:layerMember="4">
+			
+			
+			<title>Receive</title>
+			<g id="shape39-106" v:mID="39" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(1,2,2,2)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="49.8898" cy="828.008" width="99.78" height="27.7638"></v:textRect>
+				<path d="M97.51 841.89 A2.26773 2.26773 -180 0 0 99.78 839.62 L99.78 801.64 A2.26773 2.26773 -180 0 0 97.51 799.37&#xA;        L2.27 799.37 A2.26773 2.26773 -180 0 0 -0 801.64 L0 839.62 A2.26773 2.26773 -180 0 0 2.27 841.89 L97.51&#xA;        841.89 Z" class="st25"></path>
+				<text x="9.26" y="830.51" class="st2" v:langID="1031">Auf Antwort warten</text>			</g>
+			<g id="group40-111" transform="translate(86.1903,-28.9304)" v:mID="40" v:groupContext="group" v:layerMember="4">
+				<title>EndSymbol</title>
+				<g id="shape41-112" v:mID="41" v:groupContext="shape" v:layerMember="4">
+					<title>Kreis.54</title>
+					
+				</g>
+				<g id="shape42-114" v:mID="42" v:groupContext="shape" v:layerMember="4" transform="translate(3.44409,-3.44409)">
+					<title>Quadrat.62</title>
+					
+					<rect x="0" y="836.022" width="5.86772" height="5.86772" class="st4"></rect>
+				</g>
+				<g id="shape40-116" v:mID="40" v:groupContext="groupContent" v:layerMember="4"></g>
+			</g>
+			<g id="group43-117" transform="translate(72.601,-28.9304)" v:mID="43" v:groupContext="group" v:layerMember="4">
+				
+				<title>StartSymbol</title>
+				<g id="shape43-118" v:mID="43" v:groupContext="groupContent" v:layerMember="4"></g>
+				<g id="shape44-120" v:mID="44" v:groupContext="shape" v:layerMember="4" transform="translate(4.84724,-2.65619)">
+					<title>Sheet.44</title>
+				</g>
+			</g>
+			<g id="shape45-122" v:mID="45" v:groupContext="shape" v:layerMember="4" transform="translate(-0.0644238,-23.3858)">
+				<title>MultiBox</title>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="20.8346" cy="833.386" width="41.67" height="17.0079"></v:textRect>
+			</g>
+			<g id="shape46-124" v:mID="46" v:groupContext="shape" transform="translate(72.2677,-42.5197)">
+				<title>MakroSymbol</title>
+				<desc>M</desc>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+				<ellipse cx="0" cy="841.89" rx="0" ry="0" class="st9"></ellipse>
+				<text x="-0" y="842.19" class="st10" v:langID="1031">M</text>			</g>
+			<g id="group47-127" transform="translate(73.2677,-42.5197)" v:mID="47" v:groupContext="group">
+				<title>FunctionCallCog</title>
+				<g id="shape48-128" v:mID="48" v:groupContext="shape">
+					<title>Sheet.48</title>
+				</g>
+				<g id="shape49-129" v:mID="49" v:groupContext="shape">
+					<title>Sheet.49</title>
+				</g>
+				<g id="shape50-130" v:mID="50" v:groupContext="shape">
+					<title>Sheet.50</title>
+				</g>
+			</g>
+			<g id="group51-131" transform="translate(12.7559,-28.8913)" v:mID="51" v:groupContext="group">
+				<title>StateSymbol</title>
+				<desc>R</desc>
+				<g id="shape51-132" v:mID="51" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(1,0,0,1)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect cx="7.01575" cy="836.77" width="14.04" height="10.2392"></v:textRect>
+					<rect x="0" y="831.651" width="14.0315" height="10.2392" class="st18"></rect>
+					<text x="1" y="840.26" class="st26" v:langID="1031">R</text>				</g>
+				<g id="shape52-135" v:mID="52" v:groupContext="shape" transform="translate(0.637795,-6.82613)">
+					<title>Sheet.52</title>
+					<path d="M0 836.09 L6.38 841.89 L12.76 836.09 L0 836.09 L0 836.09 Z" class="st27"></path>
+				</g>
+			</g>
+		</g>
+		<a xlink:href="?&quot;zoom=100&quot;" v:shapeLink="Send Transition.106">
+			<g id="group53-137" transform="translate(256.535,-511.654)" v:mID="53" v:groupContext="group" v:layerMember="5">
+				
+				
+				<title>Receive Transition</title>
+				<g id="shape53-138" v:mID="53" v:groupContext="groupContent" v:layerMember="5">
+					<path d="M0 841.89 L-58.11 841.89 A2.83465 2.83465 -180 0 0 -60.94 844.72 L-60.94 871.14" class="st21"></path>
+				</g>
+				<g id="shape54-143" v:mID="54" v:groupContext="shape" v:layerMember="5" transform="translate(-892.636,841.89) rotate(-90)">
+					<title>Sheet.54</title>
+					<path d="M0 841.89 L0 841.89" class="st23"></path>
+				</g>
+				<a xlink:href="?&quot;zoom=100&quot;" v:shapeLink="Send Transition.106">
+					<g id="group55-146" transform="translate(-87.0422,10.8018)" v:mID="55" v:groupContext="group" v:layerMember="5">
+						<title>Sheet.55</title>
+						<desc>From: Msg:</desc>
+						<g id="shape55-147" v:mID="55" v:groupContext="groupContent" v:layerMember="5">
+							<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"></v:textBlock>
+							<v:textRect cx="36.2962" cy="831.088" width="72.6" height="21.6036"></v:textRect>
+							<rect x="0" y="820.286" width="72.5925" height="21.6036" rx="0.283465" ry="0.283465" class="st24"></rect>
+							<text x="0" y="828.39" class="st16" v:langID="1031">From: Vorgesetzter<v:newlineChar></v:newlineChar>
+<tspan x="0" dy="1.2em" class="st3">Msg: </tspan>Ablehnung</text>						</g>
+						<g id="group56-151" transform="translate(71.0512,-20.9369)" v:mID="56" v:groupContext="group">
+							<title>DataAccess</title>
+							<desc>DA</desc>
+							<g id="shape57-152" v:mID="57" v:groupContext="shape">
+								<title>Sheet.57</title>
+							</g>
+							<g id="shape56-153" v:mID="56" v:groupContext="groupContent">
+								<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+								<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+								<text x="0" y="841.59" class="st11" v:langID="1031">D<tspan x="0" dy="1.2em" class="st3">A</tspan>
+</text>							</g>
+						</g>
+					</g>
+				</a>
+			</g>
+		</a>
+		<g id="group58-156" transform="translate(145.984,-327.402)" v:mID="58" v:groupContext="group" v:layerMember="0">
+			
+			
+			<title>Do.58</title>
+			<g id="shape58-157" v:mID="58" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,2,2,2)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="49.6063" cy="827.508" width="99.22" height="28.7638"></v:textRect>
+				<path d="M96.94 841.89 A2.26773 2.26773 -180 0 0 99.21 839.62 L99.21 801.64 A2.26773 2.26773 -180 0 0 96.94 799.37&#xA;        L2.27 799.37 A2.26773 2.26773 -180 0 0 -0 801.64 L0 839.62 A2.26773 2.26773 -180 0 0 2.27 841.89 L96.94&#xA;        841.89 Z" class="st1"></path>
+				<text x="12.24" y="830.01" class="st2" v:langID="1031">Ärgern (End State)</text>			</g>
+			<g id="group59-161" transform="translate(85.6234,-28.9304)" v:mID="59" v:groupContext="group" v:layerMember="0">
+				<title>EndSymbol</title>
+				<g id="shape60-162" v:mID="60" v:groupContext="shape" v:layerMember="0">
+					<title>Kreis.54</title>
+					
+					<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st28"></path>
+				</g>
+				<g id="shape61-164" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(3.44409,-3.44409)">
+					<title>Quadrat.62</title>
+					
+					<rect x="0" y="836.022" width="5.86772" height="5.86772" class="st6"></rect>
+				</g>
+				<g id="shape59-166" v:mID="59" v:groupContext="groupContent" v:layerMember="0"></g>
+			</g>
+			<g id="group62-167" transform="translate(72.0341,-28.9304)" v:mID="62" v:groupContext="group" v:layerMember="0">
+				
+				<title>StartSymbol</title>
+				<g id="shape62-168" v:mID="62" v:groupContext="groupContent" v:layerMember="0"></g>
+				<g id="shape63-170" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(4.84724,-2.65619)">
+					<title>Sheet.63</title>
+				</g>
+			</g>
+			<g id="shape64-172" v:mID="64" v:groupContext="shape" transform="translate(11.3386,-28.7638)">
+				<title>TypeSymbolD</title>
+				<desc>D</desc>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="6.56929" cy="835.639" width="12.29" height="10.118"></v:textRect>
+				<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st7"></path>
+				<text x="3.55" y="838.51" class="st8" v:langID="1031">D</text>			</g>
+			<g id="shape65-176" v:mID="65" v:groupContext="shape" transform="translate(71.7008,-42.5197)">
+				<title>MakroSymbol</title>
+				<desc>M</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+				<ellipse cx="0" cy="841.89" rx="0" ry="0" class="st9"></ellipse>
+				<text x="0" y="842.19" class="st10" v:langID="1031">M</text>			</g>
+			<g id="shape66-179" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(4.22871,-24.8031)">
+				<title>LoopBox</title>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="15.9565" cy="834.803" width="31.92" height="14.1732"></v:textRect>
+			</g>
+			<g id="group67-181" transform="translate(72.7008,-42.5197)" v:mID="67" v:groupContext="group">
+				<title>FunctionCallCog</title>
+				<g id="shape68-182" v:mID="68" v:groupContext="shape">
+					<title>Sheet.68</title>
+				</g>
+				<g id="shape69-183" v:mID="69" v:groupContext="shape">
+					<title>Sheet.69</title>
+				</g>
+				<g id="shape70-184" v:mID="70" v:groupContext="shape">
+					<title>Sheet.70</title>
+				</g>
+			</g>
+			<g id="group71-185" transform="translate(69.7008,-42.5197)" v:mID="71" v:groupContext="group">
+				<title>DataAccess</title>
+				<desc>DA</desc>
+				<g id="shape72-186" v:mID="72" v:groupContext="shape">
+					<title>Sheet.72</title>
+				</g>
+				<g id="shape71-187" v:mID="71" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+					<text x="0" y="841.59" class="st11" v:langID="1031">D<tspan x="0" dy="1.2em" class="st3">A</tspan>
+</text>				</g>
+			</g>
+		</g>
+		<a xlink:href="?&quot;zoom=100&quot;" v:shapeLink="Send Transition">
+			<g id="group73-190" transform="translate(356.315,-511.654)" v:mID="73" v:groupContext="group" v:layerMember="5">
+				
+				
+				<title>Receive Transition.73</title>
+				<g id="shape73-191" v:mID="73" v:groupContext="groupContent" v:layerMember="5">
+					<path d="M0 841.89 L73.13 841.89 A2.83465 2.83465 0 0 1 75.97 844.72 L75.97 896.66" class="st21"></path>
+				</g>
+				<g id="shape74-196" v:mID="74" v:groupContext="shape" v:layerMember="5" transform="translate(913.42,841.89) rotate(90)">
+					<title>Sheet.74</title>
+				</g>
+				<a xlink:href="?&quot;zoom=100&quot;" v:shapeLink="Send Transition">
+					<g id="group75-198" transform="translate(32.1313,10.8018)" v:mID="75" v:groupContext="group" v:layerMember="5">
+						<title>Sheet.75</title>
+						<desc>From: Msg:</desc>
+						<g id="shape75-199" v:mID="75" v:groupContext="groupContent" v:layerMember="5">
+							<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"></v:textBlock>
+							<v:textRect cx="37.6212" cy="831.088" width="75.25" height="21.6036"></v:textRect>
+							<rect x="0" y="820.286" width="75.2424" height="21.6036" rx="0.283465" ry="0.283465" class="st24"></rect>
+							<text x="0" y="828.39" class="st16" v:langID="1031">From: Vorgesetzter<v:newlineChar></v:newlineChar>
+<tspan x="0" dy="1.2em" class="st3">Msg: </tspan>Genehmigung  </text>						</g>
+						<g id="group76-203" transform="translate(73.6449,-20.9369)" v:mID="76" v:groupContext="group">
+							<title>DataAccess</title>
+							<desc>DA</desc>
+							<g id="shape77-204" v:mID="77" v:groupContext="shape">
+								<title>Sheet.77</title>
+							</g>
+							<g id="shape76-205" v:mID="76" v:groupContext="groupContent">
+								<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+								<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+								<text x="0" y="841.59" class="st11" v:langID="1031">D<tspan x="0" dy="1.2em" class="st3">A</tspan>
+</text>							</g>
+						</g>
+					</g>
+				</a>
+			</g>
+		</a>
+		<g id="group78-208" transform="translate(382.677,-403.937)" v:mID="78" v:groupContext="group" v:layerMember="0">
+			
+			
+			<title>Do.78</title>
+			<g id="shape78-209" v:mID="78" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,2,2,2)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="49.6063" cy="827.508" width="99.22" height="28.7638"></v:textRect>
+				<path d="M96.94 841.89 A2.26773 2.26773 -180 0 0 99.21 839.62 L99.21 801.64 A2.26773 2.26773 -180 0 0 96.94 799.37&#xA;        L2.27 799.37 A2.26773 2.26773 -180 0 0 -0 801.64 L0 839.62 A2.26773 2.26773 -180 0 0 2.27 841.89 L96.94&#xA;        841.89 Z" class="st1"></path>
+				<text x="11.45" y="824.01" class="st2" v:langID="1031">Freuen und Urlaub <tspan x="12.18" dy="1.2em" class="st3">planen (End State)</tspan>
+</text>			</g>
+			<g id="group79-214" transform="translate(85.6234,-28.9304)" v:mID="79" v:groupContext="group" v:layerMember="0">
+				<title>EndSymbol</title>
+				<g id="shape80-215" v:mID="80" v:groupContext="shape" v:layerMember="0">
+					<title>Kreis.54</title>
+					
+					<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st28"></path>
+				</g>
+				<g id="shape81-217" v:mID="81" v:groupContext="shape" v:layerMember="0" transform="translate(3.44409,-3.44409)">
+					<title>Quadrat.62</title>
+					
+					<rect x="0" y="836.022" width="5.86772" height="5.86772" class="st6"></rect>
+				</g>
+				<g id="shape79-219" v:mID="79" v:groupContext="groupContent" v:layerMember="0"></g>
+			</g>
+			<g id="group82-220" transform="translate(72.0341,-28.9304)" v:mID="82" v:groupContext="group" v:layerMember="0">
+				
+				<title>StartSymbol</title>
+				<g id="shape82-221" v:mID="82" v:groupContext="groupContent" v:layerMember="0"></g>
+				<g id="shape83-223" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(4.84724,-2.65619)">
+					<title>Sheet.83</title>
+				</g>
+			</g>
+			<g id="shape84-225" v:mID="84" v:groupContext="shape" transform="translate(11.3386,-28.7638)">
+				<title>TypeSymbolD</title>
+				<desc>D</desc>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="6.56929" cy="835.639" width="12.29" height="10.118"></v:textRect>
+				<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st7"></path>
+				<text x="3.55" y="838.51" class="st8" v:langID="1031">D</text>			</g>
+			<g id="shape85-229" v:mID="85" v:groupContext="shape" transform="translate(71.7008,-42.5197)">
+				<title>MakroSymbol</title>
+				<desc>M</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+				<ellipse cx="0" cy="841.89" rx="0" ry="0" class="st9"></ellipse>
+				<text x="0" y="842.19" class="st10" v:langID="1031">M</text>			</g>
+			<g id="shape86-232" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(4.22871,-24.8031)">
+				<title>LoopBox</title>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="15.9565" cy="834.803" width="31.92" height="14.1732"></v:textRect>
+			</g>
+			<g id="group87-234" transform="translate(72.7008,-42.5197)" v:mID="87" v:groupContext="group">
+				<title>FunctionCallCog</title>
+				<g id="shape88-235" v:mID="88" v:groupContext="shape">
+					<title>Sheet.88</title>
+				</g>
+				<g id="shape89-236" v:mID="89" v:groupContext="shape">
+					<title>Sheet.89</title>
+				</g>
+				<g id="shape90-237" v:mID="90" v:groupContext="shape">
+					<title>Sheet.90</title>
+				</g>
+			</g>
+			<g id="group91-238" transform="translate(69.7008,-42.5197)" v:mID="91" v:groupContext="group">
+				<title>DataAccess</title>
+				<desc>DA</desc>
+				<g id="shape92-239" v:mID="92" v:groupContext="shape">
+					<title>Sheet.92</title>
+				</g>
+				<g id="shape91-240" v:mID="91" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+					<text x="0" y="841.59" class="st11" v:langID="1031">D<tspan x="0" dy="1.2em" class="st3">A</tspan>
+</text>				</g>
+			</g>
+		</g>
+		<g id="group1000-243" transform="translate(145.984,-429.449)" v:mID="1000" v:groupContext="group" v:layerMember="0">
+			
+			
+			<title>Do.1000</title>
+			<g id="shape1000-244" v:mID="1000" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,2,2,2)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="49.6063" cy="827.508" width="99.22" height="28.7638"></v:textRect>
+				<path d="M96.94 841.89 A2.26773 2.26773 -180 0 0 99.21 839.62 L99.21 801.64 A2.26773 2.26773 -180 0 0 96.94 799.37&#xA;        L2.27 799.37 A2.26773 2.26773 -180 0 0 -0 801.64 L0 839.62 A2.26773 2.26773 -180 0 0 2.27 841.89 L96.94&#xA;        841.89 Z" class="st1"></path>
+				<text x="28.49" y="830.01" class="st2" v:langID="1031">Umplanen</text>			</g>
+			<g id="group1001-248" transform="translate(85.6234,-28.9304)" v:mID="1001" v:groupContext="group" v:layerMember="0">
+				<title>EndSymbol</title>
+				<g id="shape1002-249" v:mID="1002" v:groupContext="shape" v:layerMember="0">
+					<title>Kreis.54</title>
+					
+				</g>
+				<g id="shape1003-251" v:mID="1003" v:groupContext="shape" v:layerMember="0" transform="translate(3.44409,-3.44409)">
+					<title>Quadrat.62</title>
+					
+					<rect x="0" y="836.022" width="5.86772" height="5.86772" class="st4"></rect>
+				</g>
+				<g id="shape1001-253" v:mID="1001" v:groupContext="groupContent" v:layerMember="0"></g>
+			</g>
+			<g id="group1004-254" transform="translate(72.0341,-28.9304)" v:mID="1004" v:groupContext="group" v:layerMember="0">
+				
+				<title>StartSymbol</title>
+				<g id="shape1004-255" v:mID="1004" v:groupContext="groupContent" v:layerMember="0"></g>
+				<g id="shape1005-257" v:mID="1005" v:groupContext="shape" v:layerMember="0" transform="translate(4.84724,-2.65619)">
+					<title>Sheet.1005</title>
+				</g>
+			</g>
+			<g id="shape1006-259" v:mID="1006" v:groupContext="shape" transform="translate(11.3386,-28.7638)">
+				<title>TypeSymbolD</title>
+				<desc>D</desc>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="6.56929" cy="835.639" width="12.29" height="10.118"></v:textRect>
+				<path d="M0 835.51 A6.37795 6.37795 0 1 1 12.76 835.51 A6.37795 6.37795 0 0 1 -0 835.51 Z" class="st7"></path>
+				<text x="3.55" y="838.51" class="st8" v:langID="1031">D</text>			</g>
+			<g id="shape1007-263" v:mID="1007" v:groupContext="shape" transform="translate(71.7008,-42.5197)">
+				<title>MakroSymbol</title>
+				<desc>M</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+				<ellipse cx="0" cy="841.89" rx="0" ry="0" class="st9"></ellipse>
+				<text x="0" y="842.19" class="st10" v:langID="1031">M</text>			</g>
+			<g id="shape1008-266" v:mID="1008" v:groupContext="shape" v:layerMember="0" transform="translate(4.22871,-24.8031)">
+				<title>LoopBox</title>
+				
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect cx="15.9565" cy="834.803" width="31.92" height="14.1732"></v:textRect>
+			</g>
+			<g id="group1009-268" transform="translate(72.7008,-42.5197)" v:mID="1009" v:groupContext="group">
+				<title>FunctionCallCog</title>
+				<g id="shape1010-269" v:mID="1010" v:groupContext="shape">
+					<title>Sheet.1010</title>
+				</g>
+				<g id="shape1011-270" v:mID="1011" v:groupContext="shape">
+					<title>Sheet.1011</title>
+				</g>
+				<g id="shape1012-271" v:mID="1012" v:groupContext="shape">
+					<title>Sheet.1012</title>
+				</g>
+			</g>
+			<g id="group1013-272" transform="translate(69.7008,-42.5197)" v:mID="1013" v:groupContext="group">
+				<title>DataAccess</title>
+				<desc>DA</desc>
+				<g id="shape1014-273" v:mID="1014" v:groupContext="shape">
+					<title>Sheet.1014</title>
+				</g>
+				<g id="shape1013-274" v:mID="1013" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect cx="0" cy="841.89" width="0" height="0"></v:textRect>
+					<text x="0" y="841.59" class="st11" v:langID="1031">D<tspan x="0" dy="1.2em" class="st3">A</tspan>
+</text>				</g>
+			</g>
+		</g>
+		<g id="group1015-277" transform="translate(188.504,-429.449)" v:mID="1015" v:groupContext="group" v:layerMember="1">
+			
+			
+			<title>Do Transition.1015</title>
+			<g id="shape1015-278" v:mID="1015" v:groupContext="groupContent" v:layerMember="1">
+				<path d="M7.09 841.89 L7.09 890.99" class="st12"></path>
+			</g>
+			<g id="shape1016-283" v:mID="1016" v:groupContext="shape" v:layerMember="1" transform="translate(7.08661,1707.61) rotate(180)">
+				<title>Sheet.1016</title>
+				<path d="M0 841.89 L0 841.89" class="st14"></path>
+			</g>
+			<g id="group1017-286" transform="translate(-55.8646,29.2288)" v:mID="1017" v:groupContext="group" v:layerMember="1">
+				<title>Sheet.1017</title>
+				<g id="shape1017-287" v:mID="1017" v:groupContext="groupContent" v:layerMember="1">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"></v:textBlock>
+					<v:textRect cx="62.9513" cy="836.488" width="125.91" height="10.8036"></v:textRect>
+					<rect x="0" y="831.086" width="125.903" height="10.8036" rx="0.283465" ry="0.283465" class="st15"></rect>
+					<text x="0" y="839.19" class="st16" v:langID="1031">Keinen Alternativurlaub gefunden</text>				</g>
+			</g>
+		</g>
+		<g id="group1018-290" transform="translate(145.984,-450.709)" v:mID="1018" v:groupContext="group" v:layerMember="1">
+			
+			
+			<title>Do Transition.1018</title>
+			<g id="shape1018-291" v:mID="1018" v:groupContext="groupContent" v:layerMember="1">
+				<path d="M0 841.89 L-70.87 841.89 A2.83465 2.83465 0 0 1 -73.7 839.06 L-73.7 593.86 A2.83465 2.83465 0 0 1 -70.87&#xA;        591.02 L100.12 591.02" class="st12"></path>
+			</g>
+			<g id="shape1019-296" v:mID="1019" v:groupContext="shape" v:layerMember="1" transform="translate(-70.1235,1543.73) rotate(180)">
+				<title>Sheet.1019</title>
+				<path d="M0 841.89 L3.58 841.89" class="st14"></path>
+			</g>
+			<g id="group1020-299" transform="translate(-119.48,-134.646)" v:mID="1020" v:groupContext="group" v:layerMember="1">
+				<title>Sheet.1020</title>
+				<g id="shape1020-300" v:mID="1020" v:groupContext="groupContent" v:layerMember="1">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"></v:textBlock>
+					<v:textRect cx="49.3568" cy="836.488" width="98.72" height="10.8036"></v:textRect>
+					<rect x="0" y="831.086" width="98.7136" height="10.8036" rx="0.283465" ry="0.283465" class="st15"></rect>
+					<text x="0" y="839.19" class="st16" v:langID="1031">Alternativurlaub gefunden</text>				</g>
+			</g>
+		</g>
+	</g>
+</svg>

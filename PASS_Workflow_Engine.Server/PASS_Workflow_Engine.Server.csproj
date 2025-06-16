@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="SvgFolder\" />
     <Folder Include="PassFiles\" />
     <Folder Include="UploadFolder\" />
   </ItemGroup>
