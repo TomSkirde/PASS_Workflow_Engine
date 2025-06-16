@@ -3,11 +3,11 @@ using alps.net.api.StandardPASS;
 
 namespace PASS_Workflow_Engine.Server.HelperClasses
 {
-    /// <summary>
-    /// Singleton class to parse ALPS models using the ALPS API.
+    /// <summary> 
+    ///  class to parse PASS models using alps.net.api 
     /// </summary>
     /// <remarks>
-    /// The code implements a singleton pattern so no multiple instances of the parser are created within one session, because loading the ontology files through <c>PASSReaderWriter.loadOWLParsingStructure</c>, provided by the alps.net.api is resource intensive.
+    /// The code uses the Singleton pattern to ensure only one instance of the parser is created within one session, because loading the ontology files through <c>PASSReaderWriter.loadOWLParsingStructure</c>, provided by the alps.net.api is resource intensive.
     /// </remarks>
     public class AlpsParser
     {
@@ -15,12 +15,14 @@ namespace PASS_Workflow_Engine.Server.HelperClasses
         /// Singleton instance of the AlpsParser class.
         /// </summary>
         private static AlpsParser instance;
+
         /// <summary>
-        /// Instance of the IPASSReaderWriter interface for parsing PASS models.
+        /// parser of the alps.net.api for parsing PASS models of .owl format
         /// </summary>
         private IPASSReaderWriter parser;
+
         /// <summary>
-        /// List of file paths to the ontologies used for parsing.
+        /// Paht of the Ontology files that are used to parse the PASS models. 
         /// </summary>
         private IList<string> ontologyPaths;
 
@@ -41,9 +43,6 @@ namespace PASS_Workflow_Engine.Server.HelperClasses
         /// <summary>
         /// Gets the singleton instance of the AlpsParser class.
         /// </summary>
-        /// <returns>
-        /// The instance of the <c>AlpsParser</c> class.
-        /// </returns>
         public static AlpsParser GetAlpsParser()
         {
             if (instance == null)
